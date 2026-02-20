@@ -1,8 +1,5 @@
 
-import 'package:fastfood_app3/custombar.dart';
 import 'package:fastfood_app3/details.dart';
-import 'package:fastfood_app3/order.dart';
-import 'package:fastfood_app3/root-screen.dart';
 import 'package:flutter/material.dart';
 
 // List<Widget> screens = ["home", "order", "Details"];

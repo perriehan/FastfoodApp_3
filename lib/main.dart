@@ -1,6 +1,5 @@
 import 'package:fastfood_app3/root-screen.dart';
 import 'package:flutter/material.dart';
-import 'package:fastfood_app3/home.dart';
 
 void main() {
   runApp(const MyApp());
