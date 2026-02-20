@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
 
 class FoodCartWidget extends StatelessWidget {
+  const FoodCartWidget({super.key});
+
   @override
   Widget build(BuildContext context) {
-    // TODO: implement build
+  
    return Padding(
       padding: const EdgeInsets.only(top: 10, bottom: 10,right: 20,left: 20),
       child: Row(
